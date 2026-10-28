@@ -1,0 +1,13 @@
+firmware_directories /etc/firmware/ /odm/firmware/ /vendor/firmware/ /firmware/image/
+
+/dev/null                 0666   root       root
+/dev/zero                 0666   root       root
+/dev/tty                  0666   root       root
+/dev/random               0666   root       root
+/dev/urandom              0666   root       root
+/dev/binder               0666   root       root
+/dev/hwbinder             0666   root       root
+/dev/vndbinder            0666   root       root
+/dev/input/*              0660   root       input
+/dev/snd/*                0660   root       audio
+/dev/bus/usb/*            0660   root       usb

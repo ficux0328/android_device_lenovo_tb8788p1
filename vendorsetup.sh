@@ -1,0 +1,3 @@
+add_lunch_combo omni_tb8788p1_64_bsp-user
+add_lunch_combo omni_tb8788p1_64_bsp-userdebug
+add_lunch_combo omni_tb8788p1_64_bsp-eng
